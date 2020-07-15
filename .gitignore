@@ -1,0 +1,8 @@
+#ignore all logs
+*.log
+
+#include all executables built from the object codes
+*.exe
+
+#editor settings excluded
+.vscode
